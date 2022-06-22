@@ -20,16 +20,8 @@ a {
   color: rgb(71, 69, 69);
 }
 
-span > a:hover {
-  color: #792c9b;
-}
-
 h3 {
   text-transform: uppercase;
-}
-
-h3:hover {
-  color: #792c9b;
 }
 
 p {
